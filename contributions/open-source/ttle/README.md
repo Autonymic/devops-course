@@ -35,7 +35,7 @@ There is also a decent possibility of the contribution being merged as well.
 
 **Submission**
 
-The two issues have been addresses in the following two pull requests now:
+The two issues have been addressed in the following two pull requests now:
 
 https://github.com/python-discord/bot/pull/2178
 
