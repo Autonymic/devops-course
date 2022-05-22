@@ -33,6 +33,8 @@ The first is a bug that requires adjusting a command that should be able to take
 The second follows up on it by cleaning up the help text for the command, so it should be considered as adding to the documentation.
 There is also a decent possibility of the contribution being merged as well.
 
+**Submission**
+
 The two issues have been addresses in the following two pull requests now:
 
 https://github.com/python-discord/bot/pull/2178
